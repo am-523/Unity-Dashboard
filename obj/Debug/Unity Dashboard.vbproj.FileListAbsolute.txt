@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\bin\Debug\Unity Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\bin\Debug\Unity Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\bin\Debug\Unity Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\bin\Debug\Unity Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity_Dashboard.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity_Dashboard.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Unity Dashboard\obj\Debug\Unity Dashboard.pdb
